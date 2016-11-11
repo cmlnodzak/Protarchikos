@@ -3,7 +3,7 @@
 
 
 # This function employs Newton's Method for estimation of square roots.
-def squareroot(n):
+def sq_root(n):
     root = n/2
     for k in range(20):
         root = (1/2)*(root + (n / root))
