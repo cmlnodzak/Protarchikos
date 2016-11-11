@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-# A collection of functions created while practicing.
+# A collection of functions to demonstrate proper syntax and optimization of methods.
+
 
 # anagramCheckCheck will check if two strings are in fact anagrams of one another.
 # using an inefficient method of checking each letter.
@@ -45,7 +46,7 @@ def anagramSortCheck(s1, s2):
 
     return matches
 
-## Finally, a method of counting each letter. Anagrams should have the same number of each letter by definition.
+## Finally, a method that counts each letter. Anagrams should have the same number of each letter by definition.
 
 def anagramCountCheck(s1,s2):
     c1 = [0]*26
