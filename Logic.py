@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# Here I will make several classes to demonstrate logic gates.
+# Here I will make several classes to demonstrate Python classes using logic gates.
 
 class LogicGate:
    
