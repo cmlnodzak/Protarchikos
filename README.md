@@ -1,6 +1,6 @@
 # Protarchikos
 
 
-This repo is home to sample code for learning and demonstrating the programming language Python. 
-There are several examples that implement classes that can serve as an introduction to OOP and data structures.
+This repo is home to sample code for learning the programming language Python. 
+The code here follows the implementations from the text Problem Solving with Algorithms and Data Structues using Python -- Miller & Ranum. 
 
